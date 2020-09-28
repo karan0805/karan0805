@@ -7,7 +7,6 @@
 
 
 ![Badge](https://cp-logo.vercel.app/codechef/mr_coder_0805)
-![Badge](https://cp-logo.vercel.app/codeforces/karan0805)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=karan0805&show_icons=true&hide_border=true)
  
