@@ -80,6 +80,16 @@
       </a>
       <br>MySQL
     </td>
+      <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="75" height="50" alt="Wordpress" />
+      </a>
+    </td>
+       <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="Wordpress" />
+      </a>
+   </td>
    
   </tr>
 </table>
