@@ -100,7 +100,7 @@
 
  ---
 
-## Connect with me  
+> ## Connect with me  
 <div align="center">
  <a href="https://www.linkedin.com/in/karan0805/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -128,6 +128,9 @@
 </a>
 </div>
 
+ ---
+ > ## Check My Resume:
+ 
 [website]: https://karan0805.github.io/portfolio/
 [instagram]: https://www.instagram.com/k_a_r_a_n_0805/
 [linkedin]: https://www.linkedin.com/in/karan0805/
