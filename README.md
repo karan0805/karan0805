@@ -12,9 +12,9 @@
 > ### Tools and Languages Known: 
 <table>
   <tr>
-    <td align="center" width="96">
+       <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25" height="25" alt="C#" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25" height="25" alt="C" />
       </a>
       <br>C
     </td>
@@ -24,6 +24,12 @@
       </a>
       <br>C++
     </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25" alt="Python" />
+      </a>
+      <br>Python
+    </td> 
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25" alt="Java" />
@@ -48,19 +54,12 @@
       </a>
       <br>JavaScript
     </td>
-   <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="25" height="25" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="25" height="25" alt="React" />
       </a>
       <br>React
-    </td>
-    
+    </td>     
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -68,24 +67,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25" height="25" alt="Docker" />
       </a>
       <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25" alt="Kubernetes" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="25" height="25" alt="linux" />
-      </a>
-      <br>Linux
-    </td>
- <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="25" height="25" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
     </td>
  <td align="center"  width="96">
       <a href="#macropower-tech">
