@@ -2,11 +2,10 @@
  
 > ## Hey there, I'm [Karan][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👨‍🎓I am Karan Gandhi, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.
-- ⚡ I'm interested in competitive coding and Full Stack Web-Development.
-- ❤️ Learning and Exploring React
-- 🏆🥇I love **competitive programming**. I am **3-star⭐️** coder at Codechef.<br />
-- 📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
+👨‍🎓I am Karan Gandhi, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
+💻I am a **Web developer** as well as an 📱**Cybersecurity** enthusiast.<br />
+🏆🥇I love **competitive programming**. I am **3-star⭐️** coder at Codechef.<br />
+📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
 
 <br />
 
