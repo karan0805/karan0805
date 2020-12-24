@@ -68,7 +68,7 @@
     </td>
  <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="25" height="25" alt="oracle" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="oracle" />
       </a>
       <br>Oracle
     </td>
