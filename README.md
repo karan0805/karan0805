@@ -62,7 +62,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25" height="25" alt="Docker" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25" height="25" alt="Github" />
       </a>
       <br>GitHub
     </td>
