@@ -106,38 +106,39 @@
 
 <br />
 
-<div>
- 
- <a href="https://github.com/wadermanasi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan0805&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=11&hide_border=false&hide=Ruby,Batchfile" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karan0805&theme=highcontrast)](https://github.com/karan0805/github-readme-streak-stats)
-</a>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=karan0805&margin-w=25)](https://github.com/karan0805/github-profile-trophy)
-
-</div>
-
-<br>
+|<img src="https://github-readme-stats.vercel.app/api?username=karan0805&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=karan0805"/>|
+|---|---|
 
 
-> ### Connect with me at: 
+ ---
 
-<a href="https://github.com/karan0805/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- <a href="https://karan0805.github.io/portfolio/" target="_blank">
-<img src=https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=globe&logoColor=white&color=009900 alt=website style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/karan0805/" target="_blank">
+## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/karan0805/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="mailto:karangandhi.navsari@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=cc0000 alt=gmail style="margin-bottom: 5px;" />
+<a href="https://github.com/karan0805" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.instagram.com/k_a_r_a_n_0805/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff9900 alt=insta style="margin-bottom: 5px;" />
+<a href="https://twitter.com/Karan_0805" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-
-<br />
-<br />
+<a href="https://dev.to/karan0805" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/12383316/karan0805" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@karan085" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.facebook.com/karan0805/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/k_a_r_a_n_0805" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>
 
 [website]: https://karan0805.github.io/portfolio/
 [instagram]: https://www.instagram.com/k_a_r_a_n_0805/
