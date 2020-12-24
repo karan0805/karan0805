@@ -130,6 +130,9 @@
 
  ---
  > ## Check My Resume:
+ <a href="https://instagram.com/k_a_r_a_n_0805" target="_blank">
+<img src=https://img.shields.io/badge/Resume-Karan%20Gandhi-brightgreen style="margin-bottom: 5px;" />
+</a>
  
 [website]: https://karan0805.github.io/portfolio/
 [instagram]: https://www.instagram.com/k_a_r_a_n_0805/
