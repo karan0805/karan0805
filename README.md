@@ -114,7 +114,7 @@
 <a href="https://dev.to/karan0805" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/12383316/karan0805" target="_blank">
+<a href="https://stackoverflow.com/users/14899830/karan0805" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@karan085" target="_blank">
