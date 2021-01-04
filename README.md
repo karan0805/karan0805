@@ -48,13 +48,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="25" height="25" alt="JavaScript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="25" height="25" alt="React" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25" height="25" alt="React" />
       </a>
       <br>React
     </td>     
