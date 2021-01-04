@@ -74,7 +74,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="25" height="25" alt="MySQL" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="25" height="25" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
