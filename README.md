@@ -1,4 +1,5 @@
 # ![](Hello(1).gif)[Karan Gandhi!](https://karan0805.github.io/portfolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![GitHub Logo](https://github.com/karan0805/karan0805/blob/master/banner.jpeg)
 
 👨‍🎓I am Karan Gandhi, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 💻I am a **Web developer** as well as an 📱**Cybersecurity** enthusiast.<br />
