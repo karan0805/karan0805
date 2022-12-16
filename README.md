@@ -17,6 +17,11 @@
 ### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  SLAT
 [Slat](https://slat.vercel.app/) is a workflow management tool for defining, managing, and improving services that deliver knowledge work. It aims to help you visualise your work, maximize efficiency, and improve continuously.
 
+### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  Hire Me
+[Hire-Me](https://github.com/karan0805/Hire-Me) is a Recruitment Management System made using python, tkinter and mysql.
+
+### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  Path Finding Visualizer
+[Path-Finding-Visualizer](https://github.com/karan0805/Path-Finding-Visualizer) is a Python GUI App which visualizes path finding in pygame window. It targets algorithms like A-Star, Dijkstra, Greedy Best-First.
 
 <p align="right">
 .. working on few more projects 😉 </p>
