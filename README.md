@@ -6,7 +6,7 @@
 <p align="center">Currently building <a href="https://climetech.co" target="_blank">Clime Tech</a> 💻</p>
 <p align="center">
  <a href="https://www.buymeacoffee.com/karan0805" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
- <a href="https://karan0805.github.io/portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://karan0805.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://karan0805.github.io/MyResume/" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=vercel&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/Karan_0805" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/karan0805/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
