@@ -3,7 +3,7 @@
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
-<p align="center">Currently building <a href="https://climetech.co" target="_blank">Clime Tech</a> 💻</p>
+<p align="center">Currently managing <a href="https://www.syntaxwork.com" target="_blank">SyntaxWork</a> 💻</p>
 <p align="center">
  <a href="https://www.buymeacoffee.com/karan0805" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <a href="https://karan0805.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
