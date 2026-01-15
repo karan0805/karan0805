@@ -13,7 +13,7 @@ Senior Frontend Engineer at <a href="https://www.bicycle.ai" target="_blank"><b>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh0c3BuMTh6MTcwNGdrc3J0cWcybjF2dmlwZnRydTAwd3BldDJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200">
 
 ### 📫 Like to meet me?
-Pick a slot to chat — just describe the agenda 📝
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda 📝
 
 <a href="https://calendly.com/karan0805/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
