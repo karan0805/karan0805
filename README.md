@@ -1,31 +1,24 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Karan Gandhi </br> 
 </h1>
-<p align="center">I love creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
-<p align="center">Currently managing <a href="https://www.syntaxwork.com" target="_blank">SyntaxWork</a> 💻</p>
+<p align="center">
+Senior Frontend Engineer at <a href="https://www.bicycle.ai" target="_blank"><b>Bicycle AI</b></a> 🚀 | Founder at <a href="https://www.syntaxwork.com" target="_blank"><b>SyntaxWork</b></a> 💼
+</p>
+<p align="center">5+ years crafting scalable React & Next.js apps · Turning ideas into reality ⚡</p>
 <p align="center">
  <a href="https://www.buymeacoffee.com/karan0805" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <a href="https://karan0805.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
- <a href="https://karan0805.github.io/MyResume/" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=vercel&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/Karan_0805" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://karan0805.vercel.app/resume" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=vercel&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/karan0805/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-## Creation 👨‍💻
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="175">
 
-### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" /> SLAT
+### 📫 Like to meet me?
 
-[Slat](https://slat.vercel.app/) is a workflow management tool for defining, managing, and improving services that deliver knowledge work. It aims to help you visualise your work, maximize efficiency, and improve continuously.
+Pick a slot to chat — just describe the agenda 📝
 
-### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" /> Hire Me
+<a href="https://calendly.com/karan0805/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-[Hire-Me](https://github.com/karan0805/Hire-Me) is a Recruitment Management System made using python, tkinter and mysql.
-
-### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" /> Path Finding Visualizer
-
-[Path-Finding-Visualizer](https://github.com/karan0805/Path-Finding-Visualizer) is a Python GUI App which visualizes path finding in pygame window. It targets algorithms like A-Star, Dijkstra, Greedy Best-First.
-
-<p align="right">
-.. working on few more projects 😉 </p>
+<br clear="both"/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -102,6 +95,56 @@ const karan = {
   funFact: "Most bugs disappear after a coffee and a clean commit history ☕",
 };
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C500%2B%20hrs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-206-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤**
+
+```text
+🌞 Morning                ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+🌆 Daytime                ██████████░░░░░░░░░░░░░░░   40.00 %
+🌃 Evening                ███████░░░░░░░░░░░░░░░░░░   28.00 %
+🌙 Night                  ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages:
+TypeScript               ███████████████░░░░░░░░░░   60.00 %
+JavaScript               ████████░░░░░░░░░░░░░░░░░   32.00 %
+JSON                     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+
+🔥 Editors:
+Cursor                   ████████████░░░░░░░░░░░░░   50.00 %
+VS Code                  ██████████░░░░░░░░░░░░░░░   40.00 %
+Antigravity              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+
+💻 Operating System:
+Mac                      █████████████████████████   100.00 %
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+JavaScript               █████████░░░░░░░░░░░░░░░░   36.00 %
+TypeScript               █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Python                   ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+```
+
+<!--END_SECTION:waka-->
 
 ### Thanks for Visiting my GitHub Profile!
 
