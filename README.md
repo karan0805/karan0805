@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Karan Gandhi </br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
@@ -13,97 +12,101 @@
 
 ## Creation 👨‍💻
 
+### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" /> SLAT
 
-### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  SLAT
 [Slat](https://slat.vercel.app/) is a workflow management tool for defining, managing, and improving services that deliver knowledge work. It aims to help you visualise your work, maximize efficiency, and improve continuously.
 
-### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  Hire Me
+### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" /> Hire Me
+
 [Hire-Me](https://github.com/karan0805/Hire-Me) is a Recruitment Management System made using python, tkinter and mysql.
 
-### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  Path Finding Visualizer
+### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" /> Path Finding Visualizer
+
 [Path-Finding-Visualizer](https://github.com/karan0805/Path-Finding-Visualizer) is a Python GUI App which visualizes path finding in pygame window. It targets algorithms like A-Star, Dijkstra, Greedy Best-First.
 
 <p align="right">
 .. working on few more projects 😉 </p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-## Tech Stack 💻
-#### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![CPP](https://img.shields.io/badge/cpp-000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=3670A0)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+```javascript
+const karan = {
+  name: "Karan Gandhi",
+  pronouns: ["he", "him"],
+  languages: ["TypeScript", "JavaScript", "Python"],
+  askMeAbout: [
+    "web development",
+    "mobile app development",
+    "cloud architecture",
+    "generative AI",
+    "agentic systems",
+    "SaaS products",
+    "system design",
+  ],
 
-#### JS Framework/Library
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js", "Angular"],
+      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
+      uiLibraries: ["Material UI", "Mantine UI", "Styled Components"],
+    },
 
-#### CSS Framework/Library/Pre-processors
-![Mantine](https://img.shields.io/badge/-Mantine%20UI-000?style=for-the-badge&logo=mantine)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?style=for-the-badge&logo=styledcomponents)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+    backend: {
+      node: ["Node.js", "Express", "NestJS"],
+      python: ["FastAPI"],
+    },
 
-#### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+    devOps: {
+      tools: ["Docker", "GitHub Actions", "Nginx"],
+      practices: ["CI/CD", "Infrastructure as Code"],
+    },
 
-#### Database/State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+    cloud: {
+      aws: ["EC2", "S3", "RDS", "Lambda", "CloudWatch"],
+      hosting: ["Vercel", "Firebase", "GitHub Pages"],
+    },
 
-#### Backend
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
-![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+    databases: {
+      relational: ["PostgreSQL", "MySQL"],
+      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
+      inMemory: ["Redis"],
+    },
 
-#### Web Hosting
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+    realtimeAndAPIs: ["REST APIs", "WebSockets", "Socket.IO"],
 
-#### CI/CD
-![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
-![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+    ai: {
+      generativeAI: [
+        "LLM integration",
+        "Prompt engineering",
+        "Vector databases",
+        "AI agents",
+        "Workflow automation",
+      ],
+      architectures: [
+        "agentic architecture",
+        "tool-augmented agents",
+        "multi-agent systems",
+      ],
+      models: ["OpenAI", "Gemini", "Llama"],
+    },
+  },
 
-#### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
-
-#### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-
-``` java
-if (dream){
-            while (!achieveDream){
-                efforts++;
-            }
-        }
-// - Karan Gandhi
+  architecture: {
+    frontend: ["SPA", "SSR"],
+    backend: ["monolith", "microservices", "serverless"],
+    cloudPatterns: ["event-driven", "agentic systems", "scalable SaaS"],
+    data: ["relational", "nosql", "in-memory"],
+  },
+  currentFocus:
+    "Building scalable AI-first SaaS products with agentic architectures",
+  funFact: "Most bugs disappear after a coffee and a clean commit history ☕",
+};
 ```
-
-
-## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=karan0805&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan0805&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
-
-## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=karan0805&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
 
 ### Thanks for Visiting my GitHub Profile!
 
 ---
+
 <p align="center">
 <img src="https://github.com/karan0805/karan0805/blob/master/github-user-contribution.svg">
 </p>
